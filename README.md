@@ -1,0 +1,3 @@
+# COMPARE DIFFERENT WAYS TO EXTEND OBJECTS IN RUBY
+
+ruby start_benchmarks.rb
